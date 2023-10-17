@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋🏻 I am Candela, welcome to my Github! 🌻
 
 <!--
 **Candeb/Candeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
