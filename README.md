@@ -1,14 +1,14 @@
 # Hello there! 👋🏻 I am Candela, welcome to my Github! 🌻
 
-## ABOUT ME
+## ABOUT ME 🌸
 
 👩🏻‍💻 I'm a fullstack developer  
 🌎 I am settled in San Juan, Argentina 🇦🇷    
 💫 You can contact me at candebustos084@gmail.com    
 
 
-## SKILLS 
-
+## SKILLS 🌸
+ 
 ## 
 <!--
 **Candeb/Candeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
