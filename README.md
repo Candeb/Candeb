@@ -2,7 +2,7 @@
 
 ## ABOUT ME 🌸
 
-### 👩🏻‍💻 I'm a fullstack developer  
+###👩🏻‍💻 I'm a fullstack developer  
 ###🌎 I am settled in San Juan, Argentina 🇦🇷    
 ###💫 You can contact me at candebustos084@gmail.com    
 
