@@ -1,6 +1,6 @@
-### Hello there! 👋🏻 I am Candela, welcome to my Github! 🌻
+# Hello there! 👋🏻 I am Candela, welcome to my Github! 🌻
 
-# ABOUT ME
+## ABOUT ME
 
 👩🏻‍💻 I'm a fullstack developer  
 🌎 I am settled in San Juan, Argentina 🇦🇷    
