@@ -43,8 +43,10 @@ I am a committed and passionate individual who is driven to achieve set goals an
 ## CONTACT ME 🌸
 
 <div display="flex">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- <p>: candebustos084@gmail.com</p>
+ <a href="https://www.linkedin.com/in/candela-bustos/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+
  <div/>
  
 <!--
