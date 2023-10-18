@@ -50,7 +50,7 @@ I am a committed and passionate individual who is driven to achieve set goals an
  <a href="mailto:candebustos084@gmail.com" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
- <a href="" target="_blank" rel="noopener noreferrer">
+ <a href="https://wa.me/542645213663" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>
   <a href="" target="_blank" rel="noopener noreferrer">
