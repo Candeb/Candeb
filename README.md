@@ -43,7 +43,7 @@ I am a committed and passionate individual who is driven to achieve set goals an
 ## CONTACT ME 🌸
 
 <div display="flex">
- <a href="https://www.linkedin.com/in/candela-bustos/">
+ <a href="https://www.linkedin.com/in/candela-bustos/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 
