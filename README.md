@@ -2,14 +2,15 @@
 
 ## ABOUT ME 🌸
 
-👩🏻‍💻 I'm a fullstack developer  
-🌎 I am settled in San Juan, Argentina 🇦🇷    
-💫 You can contact me at candebustos084@gmail.com    
+### 👩🏻‍💻 I'm a fullstack developer  
+###🌎 I am settled in San Juan, Argentina 🇦🇷    
+###💫 You can contact me at candebustos084@gmail.com    
 
-### I am a committed and passionate individual who is driven to achieve set goals and objectives. I thrive in a collaborative environment and possess strong teamwork, organization, creativity, and problem-solving skills. My adaptability to change allows me to embrace new challenges and technologies with enthusiasm. 
+I am a committed and passionate individual who is driven to achieve set goals and objectives. I thrive in a collaborative environment and possess strong teamwork, organization, creativity, and problem-solving skills. My adaptability to change allows me to embrace new challenges and technologies with enthusiasm. 
 
 ## TECHNOLOGIES AND TOOLS 🌸
-<img src="{https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white}" /
+![image]({[BadgeURLHere](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)})
+
  
 ## 
 <!--
