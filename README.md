@@ -47,7 +47,7 @@ I am a committed and passionate individual who is driven to achieve set goals an
  <a href="https://www.linkedin.com/in/candela-bustos/" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="mailto:candebustos084@gmail.com" target="_blank" rel="noopener noreferrer">
+ <a href="mailto:bgcandela18@gmail.com" target="_blank" rel="noopener noreferrer">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
   <a href="https://discordapp.com/users/candebu#5016" target="_blank" rel="noopener noreferrer">
